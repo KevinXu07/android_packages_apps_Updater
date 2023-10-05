@@ -26,7 +26,7 @@
     <string name="download_starting_notification">正在开始下载</string>
     <string name="update_failed_notification">更新失败</string>
     <string name="installation_suspended_notification">安装已挂起</string>
-    <string name="new_updates_found_title">新的更新</string>
+    <string name="new_updates_found_title">发现新的更新</string>
     <string name="text_download_speed">%1$s, %2$s/秒</string>
     <string name="pause_button">暂停</string>
     <string name="resume_button">继续</string>
@@ -53,10 +53,10 @@
     <string name="menu_export_update">导出更新</string>
     <string name="menu_show_changelog">显示更新日志</string>
     <string name="menu_ab_perf_mode">更新进程优先</string>
-    <string name="snack_updates_found">找到新更新</string>
-    <string name="snack_no_updates_found">没有找到新的更新</string>
-    <string name="snack_updates_check_failed">检查更新失败。 请您检查您的网络连接并稍后重试。</string>
-    <string name="snack_download_failed">下载更新失败。 请您检查您的网络连接并稍后重试。</string>
+    <string name="snack_updates_found">发现了新的系统更新</string>
+    <string name="snack_no_updates_found">没有找到新的系统更新</string>
+    <string name="snack_updates_check_failed">检查更新失败。 请检查您的网络连接并稍后重试。</string>
+    <string name="snack_download_failed">下载更新失败。 请检查您的网络连接并稍后重试。</string>
     <string name="snack_download_verification_failed">验证更新失败。</string>
     <string name="snack_download_verified">下载完毕。</string>
     <string name="snack_update_not_installable">在当前的版本上无法安装更新。</string>
